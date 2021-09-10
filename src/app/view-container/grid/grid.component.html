@@ -1,0 +1,16 @@
+<table>
+    <thead>
+        <tr>
+            <th *ngFor="let title of dataList[0] |  keyvalue : originalOrder ">{{title.key | titlecase }}</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let object of dataList">
+            <ng-container *ngFor="let key of Object.keys(object)">
+                <ng-container *ngIf="isHtmlPrintable(object[key])">
+                    <td>{{object[key]}}</td>
+                </ng-container>
+            </ng-container>
+        </tr>
+    </tbody>
+</table>

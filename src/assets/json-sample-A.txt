@@ -1,0 +1,44 @@
+[
+  {
+    "age": 33,
+    "eyeColor": "brown",
+    "name": "Watson Blackwell",
+    "gender": "male",
+    "phone": "+1 (932) 421-3442"
+  },
+  {
+    "age": 35,
+    "eyeColor": "brown",
+    "name": "Trisha Stark",
+    "gender": "female",
+    "phone": "+1 (985) 418-3479"
+  },
+  {
+    "age": 32,
+    "eyeColor": "green",
+    "name": "April Garrett",
+    "gender": "female",
+    "phone": "+1 (852) 526-2185"
+  },
+  {
+    "age": 33,
+    "eyeColor": "brown",
+    "name": "Park Cole",
+    "gender": "male",
+    "phone": "+1 (984) 494-3192"
+  },
+  {
+    "age": 20,
+    "eyeColor": "green",
+    "name": "Krista Bowman",
+    "gender": "female",
+    "phone": "+1 (936) 578-3369"
+  },
+  {
+    "age": 26,
+    "eyeColor": "brown",
+    "name": "Verna Hammond",
+    "gender": "female",
+    "phone": "+1 (956) 548-2840"
+  }
+]

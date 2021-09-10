@@ -1,0 +1,17 @@
+.browse-file {
+    margin: 1rem 0;
+    #file {
+        padding: 6px 12px;
+        margin-right: 1rem;
+    }
+    input[type="file"] {
+        display: none;
+    }
+    .custom-file-upload {
+        border: 1px solid #aaa;
+        display: inline-block;
+        padding: 6px 12px;
+        background: #eee;
+        cursor: pointer;
+    }
+}

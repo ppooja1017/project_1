@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "613a155d87cbae93240cc95d",
+    "index": 0,
+    "population": "5,821,714",
+    "area": "2,044",
+    "country": "Bahamas",
+    "language": "Serbo",
+    "capital": "Belgrade",
+    "currency": "Yugoslav dinar"
+  },
+  {
+    "_id": "613a155dae3c2cd6d2e782e1",
+    "index": 1,
+    "population": "5,114,279",
+    "area": "1,607",
+    "country": "Trinidad and Tobago",
+    "language": "spanish",
+    "capital": "spain",
+    "currency": "dollar"
+  },
+  {
+    "_id": "613a155df649eb8760aeb9b1",
+    "index": 2,
+    "population": "6,340,779",
+    "area": "2,920",
+    "country": "Bangladesh",
+    "language": "Bangla",
+    "capital": "Dhaka",
+    "currency": "Taka"
+  },
+  {
+    "_id": "613a155d21ad0c3ac9ab471a",
+    "index": 3,
+    "population": "5,918,765",
+    "area": "2,630",
+    "country": "Cayman Islands",
+    "language": "English",
+    "capital": "",
+    "currency": ""
+  },
+  {
+    "_id": "613a155df810974a7651b240",
+    "index": 4,
+    "population": "3,336,825",
+    "area": "2,508",
+    "country": "Estonia",
+    "language": "English",
+    "capital": "",
+    "currency": ""
+  },
+  {
+    "_id": "613a155dca36efb9671b212c",
+    "index": 5,
+    "population": "2,006,891",
+    "area": "1,182",
+    "country": "Ethiopia",
+    "language": "English",
+    "capital": "",
+    "currency": ""
+  },
+  {
+    "_id": "613a155dec3b4010c0be5055",
+    "index": 6,
+    "population": "5,903,025",
+    "area": "3,691",
+    "country": "Kyrgyzstan",
+    "language": "English",
+    "capital": "",
+    "currency": ""
+  }
+]
